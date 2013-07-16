@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<projectDescription>
+	<name>h2-server</name>
+	<comment></comment>
+	<projects>
+	</projects>
+	<buildSpec>
+		<buildCommand>
+			<name>org.eclipse.jdt.core.javabuilder</name>
+			<arguments>
+			</arguments>
+		</buildCommand>
+	</buildSpec>
+	<natures>
+		<nature>org.eclipse.jdt.core.javanature</nature>
+	</natures>
+	<linkedResources>
+		<link>
+			<name>h2-main-src</name>
+			<type>2</type>
+			<location>E:/H2/my-trunk/src/main</location>
+		</link>
+		<link>
+			<name>my-h2-src</name>
+			<type>2</type>
+			<location>E:/H2/my-h2/my-h2-src</location>
+		</link>
+	</linkedResources>
+</projectDescription>
